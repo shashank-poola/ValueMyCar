@@ -74,7 +74,8 @@ npm start
 - Provide a graphical analysis of market trends.
 
 ## 🤝 Contributors
-- **Vijay kumar** - [GitHub Profile](https://github.com/vakitivijay/)
+- **Shashank Poola** - [GitHub Profile](https://github.com/shashank-poola/)
+- **Vijay vatiki** - [GitHub Profile](https://github.com/vakitivijay/)
 ## 📜 Licens
 This project is open-source and available under the **MIT License**.
 
