@@ -1,7 +1,3 @@
-# ValueMyCar
-ValueMyCar is an intelligent web application that predicts used car prices based on multiple input parameters. Leveraging advanced machine learning techniques and a stacking model architecture, this application provides users with accurate price estimations for their vehicles.
-Features
-
 # Value My Car - Smart Used Car Price Prediction
 
 ## 📌 Project Overview
@@ -74,8 +70,7 @@ npm start
 - Provide a graphical analysis of market trends.
 
 ## 🤝 Contributors
-- **Shashank Poola** - [GitHub Profile](https://github.com/shashank-poola/)
-- **Vijay vatiki** - [GitHub Profile](https://github.com/vakitivijay/)
+- **Vijay kumar** - [GitHub Profile](https://github.com/vakitivijay/)
 ## 📜 Licens
 This project is open-source and available under the **MIT License**.
 
@@ -85,4 +80,3 @@ This project is open-source and available under the **MIT License**.
 ![Screenshot (90)](https://github.com/user-attachments/assets/ef7601e0-57f5-428a-8c11-9c19af0d2323)
 
 _✨ Thank you for checking out this project! Feel free to contribute or suggest improvements! ✨_
-
